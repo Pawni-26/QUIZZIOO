@@ -17,9 +17,11 @@ Responsive design for mobile and desktop
 Flask backend for managing quiz data and user progress
 
 📂 Project Structure
+```
 /quizzo
 │── /static         # CSS, JS, images
 │── /templates      # HTML templates
 │── app.py         # Flask application
 │── requirements.txt # Dependencies
 │── README.md      # Project documentation
+```
